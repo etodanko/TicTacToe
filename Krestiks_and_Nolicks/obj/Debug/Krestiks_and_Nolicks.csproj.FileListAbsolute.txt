@@ -1,0 +1,7 @@
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\bin\Debug\Krestiks_and_Nolicks.exe.config
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\bin\Debug\Krestiks_and_Nolicks.exe
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\bin\Debug\Krestiks_and_Nolicks.pdb
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\obj\Debug\Krestiks_and_Nolicks.csprojResolveAssemblyReference.cache
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\obj\Debug\Krestiks_and_Nolicks.csproj.CoreCompileInputs.cache
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\obj\Debug\Krestiks_and_Nolicks.exe
+D:\cs\vs_projects\Krestiks_and_Nolicks\Krestiks_and_Nolicks\obj\Debug\Krestiks_and_Nolicks.pdb
